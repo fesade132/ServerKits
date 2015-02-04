@@ -1,6 +1,6 @@
 ---
 Default:
-  name: "&bDefault_KIT"
+  name: "&Defalt"
   price: 0
   items:
     - "272 1"
@@ -21,7 +21,7 @@ Tools:
     - "274 1"
     - "275 1"
 Iron:
-  name: "&7IronKit"
+  name: Pvp
   price: 50
   items:
     - "261 1"
